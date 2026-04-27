@@ -2,7 +2,6 @@
 # Business Management Backend API
 
 > Version: `1.0.0` | Base URL: `http://localhost:8080`  
-> Contact: [support@businessmgmt.com](mailto:support@businessmgmt.com)
 
 This API collection contains all the backend APIs for the **Business Management System**.
 
